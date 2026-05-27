@@ -5,10 +5,15 @@ Data: 26/06/206
 
 Criador (Intengrante A): Mohammad Salim
 
-Colaboradores:
-    Integrante B: Rodrigo
-    Integrante C: Pedro Victor
-    Integrante D: Luiz
+# Integrantes
+
+-- Integrante A: Mohammad Salim
+
+-- Integrante B: Rodrigo Freitas
+
+-- Integrante C: Pedro Victor
+
+-- Integrante D: Luiz Henrique
 
 
 Atualizações: 
